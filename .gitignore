@@ -5,3 +5,6 @@ npm-debug.log
 # Local development
 *.env
 package-lock.json
+
+#private
+notes.txt
